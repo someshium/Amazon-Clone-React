@@ -18,7 +18,7 @@ function Orders({orders}) {
                     session ? (
                         <h2>{orders.length} Orders</h2>
                     ) : (
-                        <h2>Please sign In to see youe Orders</h2>
+                        <h2>Please sign In to see your Orders</h2>
                     )
                 }
 
